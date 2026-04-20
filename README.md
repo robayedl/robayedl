@@ -16,6 +16,11 @@
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="190" alt="AI coding animation"/>
+
+</td>
 <td valign="top" width="55%">
 
 | | |
@@ -24,14 +29,12 @@
 | 📍 **Location** | Sydney, Australia — Open to Relocate |
 | 🎓 **Education** | M.AI Computer Vision @ UTS · B.Sc CSE @ EWU |
 | 🔭 **Focus** | Agentic AI · Computer Vision · LLM Apps · RAG |
-| 🚀 **Currently** | DocuMind — Agentic RAG with LangGraph |
 | 🤝 **Open to** | Full-time · Research · Freelance |
-| ✉️ **Email** | robayedashraf@gmail.com |
 
 </td>
 <td valign="middle" width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" alt="AI coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="190" alt="AI coding animation"/>
 
 </td>
 </tr>
@@ -95,81 +98,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robayedl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robayedl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8" height="165"/>
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=robayedl&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7" height="165"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robayedl&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FF6B6B" width="95%"/>
-</div>
-
----
-
-## ✨ Highlights
-
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-🏅-0d1117?style=flat-square"/><br/>
-    <b>UTS Tech Fest 2025</b><br/>
-    <sub>Selected to present SignSync at the UTS AI Showcase among postgraduate projects for real-world accessibility impact</sub>
-  </td>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-🎓-0d1117?style=flat-square"/><br/>
-    <b>Dean's List & Scholarship</b><br/>
-    <sub>Merit-based scholarship at East West University · WAM 80.94 / 100 at UTS Master of AI</sub>
-  </td>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-📊-0d1117?style=flat-square"/><br/>
-    <b>RAGAS-Evaluated RAG</b><br/>
-    <sub>DocuMind tracks faithfulness, answer relevancy & context precision across every pipeline iteration</sub>
-  </td>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-👨‍🏫-0d1117?style=flat-square"/><br/>
-    <b>Mentored 50+ Students</b><br/>
-    <sub>Coached algorithms & data structures via ICPC-style mock contests at East West University</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-🎯-0d1117?style=flat-square"/><br/>
-    <b>99.79% Val Accuracy</b><br/>
-    <sub>ANN trained on 3,200 images across 42 AUSLAN classes with 30-frame temporal smoothing</sub>
-  </td>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-🐳-0d1117?style=flat-square"/><br/>
-    <b>Production Deployment</b><br/>
-    <sub>DocuMind shipped as a multi-service app with Docker Compose, GitHub Actions CI/CD & REST API</sub>
-  </td>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-🔍-0d1117?style=flat-square"/><br/>
-    <b>Hybrid RAG Retrieval</b><br/>
-    <sub>BM25 + dense vectors fused via Reciprocal Rank Fusion & cross-encoder reranking over baseline</sub>
-  </td>
-  <td align="center" width="25%">
-    <img width="48" src="https://img.shields.io/badge/-🦈-0d1117?style=flat-square"/><br/>
-    <b>Pull Shark ×2</b><br/>
-    <sub>Earned GitHub's Pull Shark achievement twice for consistent open-source contribution activity</sub>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-*"Build systems that reason, not just predict."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
 </div>
