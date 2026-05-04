@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/robayedashraf/)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://robayedl.github.io/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robayedashraf@gmail.com)&nbsp;<img src="https://komarev.com/ghpvc/?username=robayedl&style=for-the-badge&color=0EA5E9&label=%F0%9F%91%81Profile+Views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/robayedashraf/)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://robayedl.github.io/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robayedashraf@gmail.com)&nbsp;<img src="https://komarev.com/ghpvc/?username=robayedl&style=for-the-badge&color=0EA5E9&label=Profile+Views"/>
 
 </div>
 
