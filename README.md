@@ -83,7 +83,7 @@
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**DocuMind**](https://github.com/robayedl/DocuMind) | Production-grade Agentic RAG — query routing, hallucination detection, self-correcting loops, hybrid BM25 + vector retrieval with RRF & cross-encoder reranking | LangGraph · Gemini 2.5 Flash · FastAPI · ChromaDB · Docker · RAGAS |
+| [**DocuMind**](https://github.com/robayedl/DocuMind) | Production-grade Agentic RAG — query routing, hallucination detection, self-correcting loops, hybrid search retrieval with RRF & cross-encoder reranking | LangGraph · Gemini 2.5 Flash · FastAPI · Postgres · Docker · RAGAS |
 | [**SignSync**](https://github.com/jason2134/SignSync) | Real-time AUSLAN finger-spelling classifier (99.79% val accuracy) with 30-frame temporal smoothing, embedded live into Jitsi video calls | MediaPipe · OpenCV · ANN · Gemini API · React |
 | [**Plant Health Monitor**](https://github.com/asimsantos/thirdaxis) | End-to-end CNN pipeline with ClearML experiment tracking & Streamlit inference UI for real-time disease classification | CNN · ClearML · Streamlit · GitHub Actions |
 | [**F1Racers**](https://github.com/robayedl/F1Racers) | Autonomous racing agent trained via DQN, PPO & SAC in Gymnasium CarRacing | PyTorch · Gymnasium · RL |
